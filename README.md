@@ -2,6 +2,10 @@
 ![Coffee before Code](/Resources/Images/2.png)
 ![No Coffee No Code](/Resources/Images/3.png)
 ![Coffee Driven Development](/Resources/Images/4.png)
+![I turn Coffee into Code](/Resources/Images/11.png)
+![Coffee before Code](/Resources/Images/12.png)
+![No Coffee No Code](/Resources/Images/13.png)
+![Coffee Driven Development](/Resources/Images/14.png)
 
 ## 'Coffee' is a metaphor to all 'non-sustainable' means of productivity hacks that modern sofware engineering culture often embraces.
 Some of these are - 
@@ -39,3 +43,4 @@ Help spread the #CodeWithoutCoffee message by sharing this initiative with your 
 ## License
 
 This initiative is released under the [MIT License](LICENSE).
+
