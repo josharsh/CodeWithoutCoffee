@@ -37,6 +37,8 @@ You can also:
 2. **Contribute to the Repository**: If you have ideas, resources, or best practices to share, feel free to contribute to our [GitHub repository](https://github.com/josharsh/CodeWithoutCoffee) by submitting a pull request.
 3. **Join the Discussion**: Engage with like-minded people in our dedicated Slack channel, where you could get more from discussing mindful programming techniques, productivity methods, take part in community events, hiring programs and more. 
 
+[![Slack Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png)](https://join.slack.com/t/slack-raz9007/shared_invite/zt-1v8a51pwz-ltUgnyDDdYIaujP34ftOsQ)
+
 ## Spread the Word
 
 Help spread the #CodeWithoutCoffee message by sharing this initiative with your fellow developers, colleagues, and friends.
